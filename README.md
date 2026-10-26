@@ -35,3 +35,7 @@ Gas and vehicle, phone and internet, supplies and materials, tools and equipment
 The **Side Hustle and Gig Work Tracker** PDF has the income log, expense log, mileage log, invoice, 12-month category summary and year-end checklist, ready to print: https://spectre5.gumroad.com/l/mqhojb ($6)
 
 More guides: https://patreon.com/123black
+
+## Free calculator
+
+[Gig driver real hourly calculator](https://blacksgit.github.io/gig-hourly/): runs in your browser, nothing to install.
